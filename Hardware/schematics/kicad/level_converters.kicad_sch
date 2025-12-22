@@ -9122,7 +9122,7 @@
 		(dnp no)
 		(uuid "4361613b-11de-4bdb-88e9-78f28f97fc60")
 		(property "Reference" "J11"
-			(at 249.555 115.57 0)
+			(at 250.698 115.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9130,7 +9130,7 @@
 			)
 		)
 		(property "Value" "Velocity CV Out"
-			(at 249.555 118.11 0)
+			(at 250.952 117.856 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10730,46 +10730,46 @@
 			)
 		)
 		(pin "3"
-			(uuid "4bfedb41-8d7e-4060-b657-05148c1e71e7")
+			(uuid "4bfedb41-8d7e-4060-b657-05148c1e71e8")
 		)
 		(pin "2"
-			(uuid "3e9904e2-1a83-4290-9946-0c6fdf40e22f")
+			(uuid "3e9904e2-1a83-4290-9946-0c6fdf40e230")
 		)
 		(pin "14"
-			(uuid "023eba6d-8003-40b4-b410-1ea0f7c8ec8f")
+			(uuid "023eba6d-8003-40b4-b410-1ea0f7c8ec90")
 		)
 		(pin "7"
-			(uuid "7f68e041-5482-42fe-9ae1-e63d759ffd2a")
+			(uuid "7f68e041-5482-42fe-9ae1-e63d759ffd2b")
 		)
 		(pin "6"
-			(uuid "9ec97bc6-4f10-46fe-8929-263e77207a80")
+			(uuid "9ec97bc6-4f10-46fe-8929-263e77207a81")
 		)
 		(pin "8"
-			(uuid "14de8474-e1ae-4349-8f3c-7926cf312750")
+			(uuid "14de8474-e1ae-4349-8f3c-7926cf312751")
 		)
 		(pin "10"
-			(uuid "890d987a-9b6b-4918-acf3-bd2aac69caf2")
+			(uuid "890d987a-9b6b-4918-acf3-bd2aac69caf3")
 		)
 		(pin "13"
-			(uuid "2d17e3d2-4b84-46e6-a4af-c67091f1be76")
+			(uuid "2d17e3d2-4b84-46e6-a4af-c67091f1be77")
 		)
 		(pin "5"
-			(uuid "060d6212-be51-4070-877d-d377f47bdca7")
+			(uuid "060d6212-be51-4070-877d-d377f47bdca8")
 		)
 		(pin "1"
-			(uuid "97ffb0bd-f18e-4b12-aa17-ac8d3ec8b18f")
+			(uuid "97ffb0bd-f18e-4b12-aa17-ac8d3ec8b190")
 		)
 		(pin "12"
-			(uuid "74089f78-aaaf-4c2e-9404-8bf4d9c49b33")
+			(uuid "74089f78-aaaf-4c2e-9404-8bf4d9c49b34")
 		)
 		(pin "9"
-			(uuid "81167e4f-8e3b-4df5-8921-56ba56576abe")
+			(uuid "81167e4f-8e3b-4df5-8921-56ba56576abf")
 		)
 		(pin "11"
-			(uuid "73eeb182-44ea-45a6-a39a-4a0e15f821e3")
+			(uuid "73eeb182-44ea-45a6-a39a-4a0e15f821e4")
 		)
 		(pin "4"
-			(uuid "40000ad5-9171-46d7-98d5-c521bdaf532c")
+			(uuid "40000ad5-9171-46d7-98d5-c521bdaf532d")
 		)
 		(instances
 			(project ""
@@ -12072,7 +12072,7 @@
 		(dnp no)
 		(uuid "8b6f205f-3d22-40e2-ab4d-cd83d1594ffa")
 		(property "Reference" "J12"
-			(at 334.645 107.95 0)
+			(at 337.058 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12080,7 +12080,7 @@
 			)
 		)
 		(property "Value" "Filter CV Out"
-			(at 334.645 110.49 0)
+			(at 337.312 109.728 0)
 			(effects
 				(font
 					(size 1.27 1.27)

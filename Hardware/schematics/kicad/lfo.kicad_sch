@@ -8143,8 +8143,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Trim")
-		(at 76.2 36.83 0)
-		(mirror y)
+		(at 76.2 36.83 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8152,7 +8151,7 @@
 		(dnp no)
 		(uuid "e2b0a707-95f0-4353-aed4-d9c5720708fe")
 		(property "Reference" "RV3"
-			(at 78.486 35.814 0)
+			(at 78.486 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8160,8 +8159,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
-			(at 78.486 38.354 0)
+		(property "Value" "mult 100k"
+			(at 78.486 35.306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
