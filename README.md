@@ -1,9 +1,9 @@
-Mulichannel MIDI to CV module by Craig Barnes and Andreas Oswald Hierzenberger
+Multichannel MIDI to CV module by Craig Barnes and Andreas Oswald Hierzenberger
 - Original project here: https://github.com/craigyjp/16bit-8-note-MIDI-to-CV
 
 This project was originally designed as a proof of concept of an 8 channel 16-bit MIDI to CV module with autotune. This project has since been essentially deprecated in favor of Craig Branes's future projects, which you can find on his GitHub: https://github.com/craigyjp. Please do not ask for support with this project.
 
-The KiCad schematics and PCB can be found in the Hardware/schematics/kicad directory. Note that while the LFO module is not a part of the PCB, the schematics are still available in the same directory.
+The KiCad schematics and Eurorack PCB can be found in the Hardware/schematics/kicad directory. Note that while the LFO module is not a part of the PCB, the schematics are still available in the same directory. The schematics include a change from +-15v to +-12v. This requires a 16 pin Eurorack power connector that includes a +5v power rail. A micro SD card should be inserted into the Teensy 4.1 to save settings.
 
 The panel board uses DE-9 connectors as an easier patching method for polyphonic Eurorack-style patching up to eight voices. Converting between this connector and standard 3.5mm TS connectors is as simple as making a passive cable to do so. The pinout is as such:
 Pins 1-8: Channels 1-8 respectively
