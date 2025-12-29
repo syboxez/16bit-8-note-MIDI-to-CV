@@ -1,3 +1,27 @@
+Mulichannel MIDI to CV module by Craig Barnes and Andreas Oswald Hierzenberger
+- Original project here: https://github.com/craigyjp/16bit-8-note-MIDI-to-CV
+
+This project was originally designed as a proof of concept of an 8 channel 16-bit MIDI to CV module with autotune. This project has since been essentially deprecated in favor of Craig Branes's future projects, which you can find on his GitHub: https://github.com/craigyjp. Please do not ask for support with this project.
+
+The KiCad schematics and PCB can be found in the Hardware/schematics/kicad directory. Note that while the LFO module is not a part of the PCB, the schematics are still available in the same directory.
+
+The panel board uses DE-9 connectors as an easier patching method for polyphonic Eurorack-style patching up to eight voices. Converting between this connector and standard 3.5mm TS connectors is as simple as making a passive cable to do so. The pinout is as such:
+Pins 1-8: Channels 1-8 respectively
+Pin 9: Ground
+- A PCB to make making an adapter more convenient is available here: https://gitlab.com/syboxez/de9-to-ts
+
+All resistors and capacitors are 0805 SMD components, so this board can still be hand soldered.
+
+TODO:
+- Panel
+- Build and Test
+
+This project is licensed under the GNU GPL v3. A copy of the license is included in LICENSE.md. When redistributing, Craig Barnes and Andreas Oswald Hierzenberger MUST be mentioned, and a copy of the license must be included.
+
+
+Original README below:
+---
+
 # 16bit-8-note-MIDI-to-CV
 
 * Collaboration with Andreas Oswald "MrsColumbo" Hierzenberger
